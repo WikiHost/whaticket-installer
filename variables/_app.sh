@@ -16,4 +16,4 @@ db_pass=$(openssl rand -base64 32)
 db_user=whaticket
 db_name=whaticket
 
-deploy_email=deploy@whaticket.com
+deploy_email=wikihostbrasil@gmail.com
