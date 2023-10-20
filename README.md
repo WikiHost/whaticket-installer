@@ -9,7 +9,7 @@ Firstly, you need to download it:
 sudo apt -y update && apt -y upgrade
 sudo apt install -y git && apt install npm
 sudo npm i -g pm2
-git clone https://github.com/riservato-xyz/whaticket-installer.git
+git clone https://github.com/WikiHost/whaticket-installer.git
 ```
 
 Now, all you gotta do is making it executable:
